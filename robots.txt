@@ -1,0 +1,40 @@
+# robots.txt
+
+Sitemap: https://api.bsinfox.com/sitemap.xml
+
+User-agent: *
+# --- アクセス禁止 ---
+Disallow: /api/
+
+# --- アクセス許可 ---
+Allow: /public/
+Allow: /sitemap.xml
+
+# --- 重いクローラー ---
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+# --- AI クローラー ---
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
