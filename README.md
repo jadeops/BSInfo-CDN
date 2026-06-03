@@ -50,6 +50,9 @@ For more information about the BSInfo API, please see `https://api.bsinfox.com/d
 
 Please also note that newly added or updated assets may not always be available immediately after a game update.
 
+Regarding asset sizes:
+gadgets, starpowers, and hypercharges are standardized to a size of 256x??.
+
 When using this CDN or its assets, please make sure your use complies with Supercell's policies, including the following:
 
 - [Supercell Fan Content Policy](https://supercell.com/en/fan-content-policy/)

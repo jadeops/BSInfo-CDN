@@ -50,6 +50,9 @@ BSInfo API に関する詳細は、`https://api.bsinfox.com/dev` をご確認く
 
 また、ゲームのアップデート後に追加・更新されるアセットが、すぐに反映されない場合があります。
 
+アセットのサイズに関して
+ガジェット、スターパワー、ハイパーチャージは256x??のサイズで統一されています。
+
 この CDN やそのアセットを利用する場合は、以下を含む Supercell のポリシーを必ず遵守してください。
 
 - [Supercell Fan Content Policy](https://supercell.com/en/fan-content-policy/)
